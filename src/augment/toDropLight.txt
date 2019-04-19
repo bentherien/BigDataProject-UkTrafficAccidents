@@ -1,0 +1,11 @@
+Accident_Index
+Location_Easting_OSGR
+Location_Northing_OSGR
+Longitude
+Latitude
+Police_Force
+Date
+Local_Authority_(District)
+Local_Authority_(Highway)
+Junction_Detail
+Did_Police_Officer_Attend_Scene_of_Accident
